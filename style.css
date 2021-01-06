@@ -1,0 +1,126 @@
+body{
+    color: rgb(66, 66, 66);
+}
+h1{
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 40px;
+}
+.top-h1-size{
+    font-size: 60px;
+    margin-bottom: 1px;
+}
+p{
+    margin-bottom: 40px;
+}
+div{
+    margin-right: 1px;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.name-highlight{
+    color: #071981;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #1134fa, black);
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #a80707, black);
+    padding: 20px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#about{
+    color: #b10303;
+}
+#bottom-background{
+    background-color: #fff6f6;
+    height: 700px;
+}
+#text-align{
+    text-align: center;
+   padding-top: 100px;
+}
+#latest{
+    color: sandybrown
+}
+.bottom-width{
+    background-color: white;
+    height: 330px;
+    padding: 15px;
+    margin: 15px;
+    width: 23%;
+    float: left;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px #ced2d6;
+}
+.bottom-width img{
+    width: 100%;
+}
+#left-margin{
+    margin-left: 120px;
+}
+.link-button3{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, salmon, #393a1f);
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    width: 80px;
+    margin: 85px 10px 70px 180px;
+}
+.bottom-banner{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    margin-left: 240px;
+    margin-top: 100px;
+    height: 280px;
+}
+#work-font{
+    font-size: 40px;
+    margin: 90px 20px;
+    color: white;
+}
+#form{
+    text-align: center;
+
+}
+.fillup-box{
+    box-shadow: 10px 10px 20px #ffedc5;
+    border-radius: 5px;
+    background-color: #fdfaf3;
+    height: 750px;
+}
+button{
+    text-decoration: none;
+    background-image: linear-gradient(50deg, #f10ea5, black);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.footer-align{
+    text-align:center;
+}
+footer{
+    margin-top: 100px;
+}
+
